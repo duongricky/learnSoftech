@@ -1,0 +1,38 @@
+/*Font roboto for menu*/
+.navbar .navbar-nav li > a {
+	font-family: 'Open Sans', sans-serif;
+}
+/*form edit_user*/
+form#form_edit_product {
+    margin: auto!important;
+}
+#form_edit_cate form{
+  max-width: 30%;
+    margin: auto;
+}
+.list-page ul li {
+  float: left;
+  list-style-type: none;
+  padding: 0 10px;
+}
+/*Css chung cho từng title */
+.page-title .row {
+	padding-bottom: 5px;
+  border-bottom: 3px solid #fff;
+}
+/* Css for table list user, table list product and table categories*/
+div#table_user ,div#table_product,div#table_category{
+	margin-top: 15px;
+}
+/*Css for table categories*/
+div#table_category table {
+  max-width: 30%;
+  margin: auto;
+}
+.old-img img {
+    max-height: 70px;
+}
+div.table-responsive table tr td,div.table-responsive table tr th{
+    vertical-align: middle;
+    text-align: center;
+}

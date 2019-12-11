@@ -1,0 +1,14 @@
+.danhgia{
+	color: brown;
+}
+.reviews a{
+	color: brown;
+}
+.thumbnail {
+	cursor: pointer;
+	border: 2px solid #e6e6e6;
+}
+.thumbnail:hover {
+	border: 2px solid #FBCD79;
+	transition: 0.4s;
+}

@@ -1,0 +1,17 @@
+#title_table_cart {
+	color: #ff22229c;
+	font-size: 200%;
+	font-weight: 700;
+}
+td,th {
+	vertical-align: middle !important;
+}
+table th {
+	font-size: 110%;
+}
+tbody td {
+	font-size: 125%;
+}
+.icon_td i {
+	color : #ff5555; 
+}
